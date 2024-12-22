@@ -16,7 +16,7 @@ const projectsData = [
     title: "Data Cleaning with XAI",
     description: "Research paper on implementing Explainable AI in Dataset Cleaning for Face Recognition Models",
     image: "/images/xai.png",
-    gitUrl: "https://github.com/Anvesha-Singh/Face-Recognition-Data-Cleaning-with-XAI",
+    gitUrl: "https://drive.google.com/file/d/1HnxGsiYmelna3xJPpvOEmdo2oin-zNrw/view?usp=sharing",
   },
   {
     id: 3,

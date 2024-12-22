@@ -158,7 +158,7 @@ const AboutSection = () => {
                     <div className={styles.skillsItem}>Event and Time Management</div>
                     <div className={styles.skillsItem}>Teamwork</div>
                     <div className={styles.skillsItem}>Communication</div>
-                    <div className={styles.skillsItem}>Adaptable</div>
+                    <div className={styles.skillsItem}>Adaptability</div>
                   </div>
                 </div>
 
@@ -166,23 +166,33 @@ const AboutSection = () => {
                   <div className={styles.skillsList}>
                     <h3 className={styles.skillsCategoryTitle}>Tools:</h3>
                     <div className={styles.skillsItem}>Github</div>
-                    <div className={styles.skillsItem}>Google Colab</div>
+                    <div className={styles.skillsItem}>Jupyter</div>
                     <div className={styles.skillsItem}>Figma</div>
                     <div className={styles.skillsItem}>Arduino</div>
                     <div className={styles.skillsItem}>Visual Studio Code</div>
                     <div className={styles.skillsItem}>Microsoft Azure</div>
+                    <div className={styles.skillsItem}>AWS Cloud Services</div>
+                  </div>
+                </div>
+
+                <div className={styles.skillsCategory}>
+                  <div className={styles.skillsList}>
+                    <h3 className={styles.skillsCategoryTitle}>Frameworks:</h3>
+                    <div className={styles.skillsItem}>React</div>
+                    <div className={styles.skillsItem}>NextJS</div>
+                    <div className={styles.skillsItem}>Tailwind CSS</div>
                   </div>
                 </div>
 
                 <div className={styles.skillsCategory}>
                   <div className={styles.skillsList}>
                     <h3 className={styles.skillsCategoryTitle}>Core Concepts: </h3>
-                    <div className={styles.skillsItem}>Data Structures and Algorithms</div>
+                    <div className={styles.skillsItem}>Design and Analysis of Algorithms</div>
                     <div className={styles.skillsItem}>Object-Oriented Programming</div>
                     <div className={styles.skillsItem}>Operating Systems</div>
                     <div className={styles.skillsItem}>Computer Networks</div>
                     <div className={styles.skillsItem}>Cloud Computing</div>
-                    <div className={styles.skillsItem}>Report Writing</div>
+                    <div className={styles.skillsItem}>Technical Report Writing</div>
                   </div>
                 </div>
               </section>
